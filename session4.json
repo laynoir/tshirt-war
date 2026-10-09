@@ -1,0 +1,85 @@
+{
+  "cookies": [
+    {
+      "name": "_gcl_au",
+      "value": "1.1.682882145.1781188646",
+      "domain": ".prefacewearhouse.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_clck",
+      "value": "vyy5x1%5E2%5Eg7b%5E0%5E2353",
+      "domain": ".prefacewearhouse.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "preseller",
+      "value": "%22false%22",
+      "domain": ".prefacewearhouse.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "plugo:10019:at",
+      "value": "",
+      "domain": ".prefacewearhouse.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "plugo:10019:rt",
+      "value": "",
+      "domain": ".prefacewearhouse.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1441982090.1781188646",
+      "domain": ".prefacewearhouse.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_6TJRN0REZV",
+      "value": "GS2.1.s1782732558$o8$g1$t1782732975$j50$l0$h0",
+      "domain": ".prefacewearhouse.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_clsk",
+      "value": "juoaxr%5E1781688874577%5E2%5E1%5Ej.clarity.ms%2Fcollect",
+      "domain": ".prefacewearhouse.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}

@@ -1,0 +1,85 @@
+{
+  "cookies": [
+    {
+      "name": "_gcl_au",
+      "value": "1.1.2142880729.1781537578",
+      "domain": ".telepatiche.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_clck",
+      "value": "15ahuk8%5E2%5Eg72%5E0%5E2357",
+      "domain": ".telepatiche.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "preseller",
+      "value": "%22false%22",
+      "domain": ".www.telepatiche.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "plugo:3859:at",
+      "value": "",
+      "domain": ".www.telepatiche.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "plugo:3859:rt",
+      "value": "",
+      "domain": ".www.telepatiche.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1228157503.1781537579",
+      "domain": ".telepatiche.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_6TJRN0REZV",
+      "value": "GS2.1.s1781939691$o11$g1$t1781941152$j54$l0$h0",
+      "domain": ".telepatiche.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_clsk",
+      "value": "juoaxr%5E1781688874577%5E2%5E1%5Ej.clarity.ms%2Fcollect",
+      "domain": "www.telepatiche.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
